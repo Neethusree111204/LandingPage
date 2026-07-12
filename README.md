@@ -22,13 +22,11 @@
 
 **Desktop view**
 
-<img src="screenshot-desktop.png" width="500" alt="Aurelia desktop view">
+<img src="Screenshots/screenshot-desktop.png" width="500" alt="Aurelia desktop view">
 
 **Mobile view**
 
-<img src="screenshot-mobile.jpg" width="220" alt="Aurelia mobile view">
-
-> Save your two screenshots into this repo using the exact filenames above (`screenshot-desktop.png` and `screenshot-mobile.jpg`) and they'll render at this size automatically.
+<img src="Screenshots/screenshot-mobile.jpg" width="220" alt="Aurelia mobile view">
 
 ## Design notes
 Product chosen: luxury watch
